@@ -2,7 +2,7 @@
 const players = [
   {
     id: 1,
-    nickname: "fl1cker",
+    nickname: "frozzenn",
     role: "Снайпер",
     country: "Россия",
     flag: "\ud83c\uddf7\ud83c\uddfa",
